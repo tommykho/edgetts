@@ -4,6 +4,8 @@ A simple Windows desktop app for converting text to speech using Microsoft Edge'
 
 ![Edge TTS Screenshot](screenshot.png)
 
+[▶ Listen to sample](sample.mp3)
+
 ## Download
 
 Grab `EdgeTTS.exe` from this folder and run it.
@@ -13,7 +15,7 @@ Grab `EdgeTTS.exe` from this folder and run it.
 - 400+ neural voices across dozens of languages
 - Filter voices by locale (e.g. `en-US`, `zh-CN`, `zh-HK`)
 - Type text directly or load a `.txt` file
-- Preview audio with the **Speak** button before saving
+- Preview audio with the **Speak** button before saving — voice generation takes just seconds
 - Export to MP3 with a custom filename
 
 ## How to Use
@@ -46,3 +48,9 @@ Examples:
 - `ja-JP` — Japanese
 - `ko-KR` — Korean
 - `fr-FR` — French
+
+## Support
+
+If you find this useful, consider buying me a coffee!
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal)](https://paypal.me/tommykho)
