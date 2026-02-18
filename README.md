@@ -1,6 +1,8 @@
 # Edge TTS
 
-A simple Windows desktop app for converting text to speech using Microsoft Edge's neural voices. No Python or installation required — just download and run.
+A simple Windows desktop app for converting text to speech using Microsoft Edge's neural voices. No Python or installation required — just download and run. Generate your own high quality speech from text without paying for service. 
+
+![Edge TTS Screenshot](screenshot.png)
 
 ## Download
 
