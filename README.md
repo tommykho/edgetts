@@ -49,6 +49,25 @@ Examples:
 - `ko-KR` — Korean
 - `fr-FR` — French
 
+## File Integrity
+
+Verify the download hasn't been tampered with by checking the SHA256 fingerprint.
+
+**Version:** `260217A`
+
+| File | SHA256 |
+|------|--------|
+| `EdgeTTS.exe` | `3E8EAB51E061A54EDA70C06340C381F8828344BB1125CAA4F78C7D9716EFE19A` |
+
+**Verify on Windows (PowerShell):**
+```powershell
+Get-FileHash .\EdgeTTS.exe -Algorithm SHA256
+```
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0 (GPL-3.0)](https://github.com/tommykho/edgetts/blob/main/LICENSE).
+
 ## Support
 
 If you find this useful, consider buying me a coffee!
